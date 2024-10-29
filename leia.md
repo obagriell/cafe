@@ -1,0 +1,5 @@
+![alterar](https://github.com/user-attachments/assets/f48e2da2-81b0-4f4e-9b12-c67460ec73ce)
+![home](https://github.com/user-attachments/assets/0740e3ef-06a8-46fc-9c26-a42df9144e4e)
+![home2](https://github.com/user-attachments/assets/604cbc01-f400-4ff7-9cc9-2b1859b481f0)
+![login](https://github.com/user-attachments/assets/3dc963c7-314e-4701-a276-6efe2f4a7753)
+![cadastrar](https://github.com/user-attachments/assets/447613e7-1fd7-4059-9243-37c110f31f7a)
